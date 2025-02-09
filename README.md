@@ -32,12 +32,6 @@ python flappy_bird.py
 - Python 3.x
 - Pygame
 
-## Screenshots
-(Add screenshots here if needed)
-
 ## License
 This project is open-source and free to use.
-
-## Author
-[Your Name]
 
